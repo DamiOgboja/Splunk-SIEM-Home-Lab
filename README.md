@@ -112,4 +112,4 @@ I built two dashboards in Splunk Dashboard Studio spanning all three indexes. A 
 **Index naming matters.** Naming the Ubuntu civilian index `linux` caused an immediate troubleshooting situation since both Kali and Ubuntu are Linux machines. Specific, unambiguous naming — `ubuntu`, `kali`, `windows` — makes SPL queries cleaner and prevents confusion when correlating across sources.
 
 # Deliverables
-[Full Technical Report](./SIEM_Lab_Report.docx)
+[Full Technical Report](./Lab_Documentation.pdf)
